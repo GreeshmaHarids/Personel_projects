@@ -1,1 +1,1 @@
-# puthon_class
+# python_class
