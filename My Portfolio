@@ -1,0 +1,321 @@
+ <!-----META SECTION----->
+<!DOCTYPE html>
+<html>
+<head>
+<title> Portfolio </title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!-----MENU SECTION------>
+<div class="main-panel">
+  <div class="container">
+    <div class="width-33 logo">Port <span class="span-col">folio</span>
+    </div>
+    <div class="width-66">
+      <nav>
+        <a href="#home">
+          <span class="span-col">Home</span>
+        </a>
+        <a href="#about"><span class="span-col">About me</span>
+</a>
+        <a href="#skills"><span class="span-col">Skills</span>
+</a>
+        <a href="#exp"><span class="span-col">Education</span>
+</a>
+        <a href="#works"><span class="span-col">My Works</span>
+</a>
+        <a href="#contact"><span class="span-col">Contact</span>
+</a>
+      </nav>
+    </div>
+  </div>
+<!------MAIN BANNERR------>
+<section id="home">
+<div class="container ">
+  <div class="width-50">
+    <div class="banner-section">
+      <h1><marquee direction="right">Hello!..</marquee>
+       <p></p>
+      <h2><b>I'm </b></h2>
+      <h1>Greeshma <span class="span-col">Haridas</span>
+      </h1>
+      <h2>- A passionate data scientist from Kerala, India</h2>
+      <a href="#">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-twitter"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-linkedin"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-instagram"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-github"></i>
+      </a>
+    </div>
+  </div>
+  <div class="width-50">
+    <img src="C:/Users/Grees/Downloads/RH/download (3).jpeg">
+  </div>
+</div>
+</div>
+</section>
+<!------ABOUT US SECTION------>
+
+<div class="main-section bg-lightgrey">
+<section id="about">
+  <div class="container">
+    <div class="width-50">
+      <img src="C:/Users/Grees/Downloads/logo of greesh (1).png" class="about-img">
+    </div>
+    <div class="width-50">
+      <div class="about-us">
+        <h2 class="heading-text">About Me</h2>
+        <p>Hi, I am Greeshma Haridas, From India.Aspiring data scientist with foundational skills in data analysis and machine learning. I recently completed a data science internship at Luminar Technolab, Kochi, and hold an MSc in Mathematics from CMS College, Kottayam, Kerala, India. Eager to leverage my skills and education to solve real-world problems
+</p>
+        <div class="width-50 mt-20">
+          <table cellspacing="8" cellpadding="8">
+            <tr>
+              <th>Name:</th>
+              <td>Greeshma Haridas</td>
+            </tr>
+            <tr>
+              <th>Email:</th>
+              <td> greeshmaharidas2000@gmail.com</td>
+            </tr>
+            <tr>
+              <th>City:</th>
+              <td>Kottayam, Kerala</td>
+            </tr>
+            
+          </table>
+        </div>
+        <div class="width-50 mt-20">
+          <table cellspacing="8" cellpadding="15">
+            <tr>
+              <th>Phone:</th>
+              <td>(+91) 9746955263</td>
+            </tr>
+            
+                        
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+<!------SKILL SECTION------>
+<div class="main-section">
+<section id="skills">
+
+  <div class="container">
+    <h2 class="heading-text">My Skills</h2>
+    <div class="width-20">
+      <div class="skill">
+        <b>Python</b>
+        <span></span>
+        <div>
+          <span style="width:85%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>Machine Learning</b>
+        <span></span>
+        <div>
+          <span style="width:80%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>NLP</b>
+        <span></span>
+        <div>
+          <span style="width:80%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>HTML</b>
+        <span></span>
+        <div>
+          <span style="width:79%"></span>
+        </div>
+      </div>
+          </div>
+
+    <div class="width-100">
+
+      <div class="skill">
+        <b>Deep Learning</b>
+        <span></span>
+        <div>
+          <span style="width:60%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>PowerBi</b>
+        <span></span>
+        <div>
+          <span style="width:88%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>Hadoop & Spark</b>
+        <span></span>
+        <div>
+          <span style="width:76%"></span>
+        </div>
+      </div>
+<div class="skill">
+        <b>CSS</b>
+        <span></span>
+        <div>
+          <span style="width:65%"></span>
+        </div>
+      </div>
+</div>
+        
+    
+  
+</section>
+
+</div>
+<!------EXPERIENCE SECTION------>
+<div class="main-section bg-lightgrey">
+<section id="exp">
+
+  <div class="container">
+    <div class="edu-exp">
+      <h2 class="heading-text">Education</h2>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>CMS College Kottayam</h2>
+          <h3>2021-2023</h3>
+          <p>MSc Mathematics</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>BK College for Women Amalagiri, Kottayam</h2>
+          <h3>2018-2021</h3>
+          <p>BSc Mathematics</p>
+        </div>
+      </div>
+            
+    </div>
+    <div class="edu-exp">
+      <h2 class="heading-text">Interships</h2>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>Luminar Technolab,Kochi</h2>
+          <h3> Sep 2023-current</h3>
+          <p>Data Science Intern</p>
+        </div>
+      </div>
+      
+      
+    </div>
+  </div>
+</section>
+
+</div>
+<!------SERVICE SECTION------>
+<div class="main-section">
+<section id="works">
+
+  <div class="container">
+    <h2 class="heading-text">My Works</h2>
+    <div class="width-50">
+      <div class="service-list">
+        <h3>Food Delivery Time Predictor</h3>
+         <a href="https://github.com/GreeshmaHarids/puthon_class/blob/17e1cad18e041a2f5ca1b7a3f44c278d6d687991/Food_delivery.ipynb" target="_blank" <button>Click Here</button></a>
+        <p>Developed a food delivery time predictor using the supervised machine learning algorithm XGBoost</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <h3>Customer Segmentation Project</h3>
+        <a href="https://github.com/GreeshmaHarids/puthon_class/blob/a6b7d929f524ea252265074734273f1df28a8f50/Customer_Segmentation_Using_KMeans.ipynb" target="_blank" <button>Click Here</button></a>
+        <p>Developed a customer segmentation project using the K-means unsupervised machine learning algorithm for targeted marketing strategies</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <h3>Sentiment Analysis Project</h3>
+        <a href="https://github.com/GreeshmaHarids/puthon_class/blob/a6b7d929f524ea252265074734273f1df28a8f50/project_file_in_nlp.ipynb" target="_blank" <button>Click Here</button></a>
+        <p>Created a model for Language processing and to understand sentiment analysis using NLP</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <h3>Google Stock Predictor</h3>
+        <a href="https://github.com/GreeshmaHarids/puthon_class/blob/a6b7d929f524ea252265074734273f1df28a8f50/RNN.ipynb" target="_blank" <button>Click Here</button></a>
+        <p>Implemented RNN for Google stock prediction and interpreted results to forecast future stock trends</p>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+</div>
+<!-------------CONTACT US SECTION----------------------->
+<div class="main-section contact bg-lightgrey">
+<section id="contact">
+
+  <div class="container">
+    <h2 class="heading-text">Get In Touch</h2>
+    <div class="width-100">
+      <form>
+        <input type="text" placeholder="Full Name...">
+        <input type="text" placeholder=" Email Id...">
+        <input type="text" placeholder=" Mobile No...">
+        <textarea placeholder="Enter Address..."></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+    <div class="width-33">
+      <h3>
+        <i class="fa fa-map-marker"></i>
+      </h3>
+      <h4>Address</h4>
+      <p>Kumarakom, Kottayam, Kerala 686563</p>
+    </div>
+    <div class="width-33">
+      <h3>
+        <i class="fa fa-phone"></i>
+      </h3>
+      <h4>Phone</h4>
+      <p>+91 98 95 325 338 </p>
+    </div>
+    <div class="width-33">
+      <h3>
+        <i class="fa fa-envelope-o"></i>
+      </h3>
+      <h4>Email</h4>
+      <p>greeshmaharidas2000@gmail.com</p>
+    </div>
+  </div>
+</section>
+
+</div>
+<!------FOOTER SECTION------>
+<div class="footer">
+  <div class="container">
+    <div class="footer-sect social-icon width-50">
+      
+      <a href="#">
+        <i class="fa fa-linkedin"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-github"></i>
+      </a>
+    </div>
+    <div class="footer-sect mt-20 width-50">CopyRight © 2023 greeshma.com Website Template. All Rights Reserved</div>
+  </div>
+</div>
